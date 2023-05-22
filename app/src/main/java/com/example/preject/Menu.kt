@@ -3,9 +3,9 @@ package com.example.preject
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class CheckOut : AppCompatActivity() {
+class Menu : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_check_out)
-    }//csdsdc
+        setContentView(R.layout.activity_menu)
+    }
 }
